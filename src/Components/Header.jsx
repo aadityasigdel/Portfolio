@@ -28,11 +28,11 @@ export default function Header() {
       </div>
 
       <div className="flex space-x-6 pt-4">
-        <a href="#" className="text-blue-600 hover:text-blue-800 flex items-center gap-2">
+        <a href="https://www.linkedin.com/in/aaditya-sigdel-902539284/" className="text-blue-600 hover:text-blue-800 flex items-center gap-2">
           <i className="fa-brands fa-linkedin text-xl"></i>
           LinkedIn
         </a>
-        <a href="#" className="text-gray-800 hover:text-black flex items-center gap-2">
+        <a href="https://github.com/aadityasigdel" className="text-gray-800 hover:text-black flex items-center gap-2">
           <i className="fa-brands fa-github text-xl"></i>
           GitHub
         </a>
