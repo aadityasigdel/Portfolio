@@ -13,6 +13,7 @@ export default function CareerObjective() {
         <span className="text-green-600 font-medium"> MERN stack</span>. I am eager to grow by contributing to
         meaningful projects, solving real-world technical problems, and continually improving as a
         <span className="text-purple-600 font-medium"> MERN Stack Developer</span>.
+        <span className="text-purple-600">Looking For InternShip</span>
       </p>
     </div>
   );
